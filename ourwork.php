@@ -154,35 +154,19 @@
                               <div class="carousel-inner" role="listbox">
                                 <div class="item active">
                                   <img src="images/ourwork/EF/ef1.JPG" alt="..." class="img-responsive">
-                                     <div class="carousel-caption" id="cap1">
-                                        <h3>Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda</h3>
-                                        <p>Concept development | Website building | Branding | Advertising &amp; Communications Services | Media Management | Participant Management |Technical Production planning &amp; execution| Stage design &amp; construction | Provision of Sound, Lighting &amp; AV equipment| Filming &amp;&amp; Live Feed | Transport Management | Accommodation Management | Airport Meet &amp; Greet | Catering Management | Social activities| Delegate tour activities</p>
-                                     </div>
-
+                                    
                                 </div>
                                <div class="item">
                                   <img src="images/ourwork/EF/ef2.jpg" alt="..." class="img-responsive">
-                                       <div class="carousel-caption" id="cap1">
-                                        <h3>Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda</h3>
-                                        <p>Concept development | Website building | Branding | Advertising &amp; Communications Services | Media Management | Participant Management |Technical Production planning &amp; execution| Stage design &amp; construction | Provision of Sound, Lighting &amp; AV equipment| Filming &amp;&amp; Live Feed | Transport Management | Accommodation Management | Airport Meet &amp; Greet | Catering Management | Social activities| Delegate tour activities</p>
-                                     </div>
-
+                                      
                                 </div>
                                 <div class="item">
                                   <img src="images/ourwork/EF/ef3.JPG" alt="..." class="img-responsive">
-                                     <div class="carousel-caption" id="cap1">
-                                        <h3>Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda</h3>
-                                        <p>Concept development | Website building | Branding | Advertising &amp; Communications Services | Media Management | Participant Management |Technical Production planning &amp; execution| Stage design &amp; construction | Provision of Sound, Lighting &amp; AV equipment| Filming &amp;&amp; Live Feed | Transport Management | Accommodation Management | Airport Meet &amp; Greet | Catering Management | Social activities| Delegate tour activities</p>
-                                     </div>
-
+                                    
                                 </div>
                                 <div class="item">
                                   <img src="images/ourwork/EF/ef4.JPG" alt="..." class="img-responsive">
-                                      <div class="carousel-caption" id="cap1">
-                                        <h3>Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda</h3>
-                                        <p>Concept development | Website building | Branding | Advertising &amp; Communications Services | Media Management | Participant Management |Technical Production planning &amp; execution| Stage design &amp; construction | Provision of Sound, Lighting &amp; AV equipment| Filming &amp;&amp; Live Feed | Transport Management | Accommodation Management | Airport Meet &amp; Greet | Catering Management | Social activities| Delegate tour activities</p>
-                                     </div>
-
+                                   
                                 </div>
 
                               </div>
@@ -214,6 +198,10 @@
                                   </li>
 
                               </ol> 
+                                <div class="" id="cap1">
+                                        <h3>Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda</h3>
+                                        <p>Concept development | Website building | Branding | Advertising &amp; Communications Services | Media Management | Participant Management |Technical Production planning &amp; execution| Stage design &amp; construction | Provision of Sound, Lighting &amp; AV equipment| Filming &amp;&amp; Live Feed | Transport Management | Accommodation Management | Airport Meet &amp; Greet | Catering Management | Social activities| Delegate tour activities</p>
+                                     </div>
                            </div>
                           </div>
                           </div>

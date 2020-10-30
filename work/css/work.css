@@ -239,4 +239,16 @@ div#images{padding:1px;}
         height: 50px;
         width: 100px;
     }
+    .modal-dialog{position:absolute;top:-0% !important;width:100%; height: 100%; background-color: #000;}
+    .close {
+        top: 0 !important;
+    }
+    .carousel-control.left{
+        top: 30%;
+    }
+    .carousel-control.right{
+        top: 30%;
+    }
+
+   
 }
