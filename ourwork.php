@@ -44,6 +44,7 @@
 
 
   <!-- BEGIN OF site header Menu -->
+
      <!-- BEGIN OF site header Menu -->
    <header class="page-header page-header-gallery navbar page-header-alpha scrolled-white menu-right topmenu-right" id="work-menu">
 
@@ -91,6 +92,7 @@
               </a>
             </li>
           </ul>
+
         </div>
         <!-- End of CTA & Icons menu -->
       </nav>
