@@ -120,8 +120,10 @@ div#images{padding:px;padding-left:1px;padding-right:1px;padding:1px}
 #mobile-slide{display:block;background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../images/background/office.jpg);background-size:cover;background-repeat:no-repeat;background-attachment:fixed;margin-top:0px;}
 #mobile-slide .carousel-control.right .fa{color:#fff;}
 #mobile-slide .carousel-control.left .fa{color:#fff;}
+/*
 .carousel-control.right{display:none;}
 .carousel-control.left{display:none;}
+*/
 div#images{padding:1px;}
 .mobile-header ul{
     position: fixed;
@@ -213,4 +215,28 @@ div#images{padding:1px;}
 }
 #mobile-slide .glyphicon {
     color: #FF5722;
+}
+
+
+
+@media (max-width:768px) {
+.modal-dialog .carousel-inner img{
+    padding-left: unset !important;
+    width: 100% !important;
+    }
+    .container-fluid{
+        padding: unset !important;
+    }
+    #mymodal .col-md-12{
+        padding-left: 0 !important;
+        padding-right: 0  !important;
+    }
+    .carousel-indicators{
+        padding-left: 12px;
+        padding-right: 12px;
+    }
+    .carousel-indicators img {
+        height: 50px;
+        width: 100px;
+    }
 }

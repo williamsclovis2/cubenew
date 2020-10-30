@@ -45,7 +45,7 @@
 
   <!-- BEGIN OF site header Menu -->
      <!-- BEGIN OF site header Menu -->
-   <header class="page-header page-header-gallery navbar page-header-alpha scrolled-white menu-right topmenu-right" id="work-menu">
+   <header class="page-header page-header-gallery navbar page-header-alpha scrolled-white menu-right topmenu-right">
 
     <!-- Begin of menu icon toggler -->
    <button class="navbar-toggler site-menu-icon" id="navMenuIcon">
@@ -121,26 +121,46 @@
 
     </div>
     <!-- end of menu wrapper -->
-  </header>
-  <div class="container-fluid" id="gall-img">
-    <div class="col-md-12 col-lg-12">
-        <div class="row  custom-album">
-         <div class="col-md-3">
-            <div class="content">
-                <a href="#" data-toggle="modal" data-target="#mymodal">
-                  <div class="content-overlay"></div>
-                  <img src="front/Ef.jpg" class="content-image" style="width:100%;">
-                  <div class="content-details fadeIn-bottom">
-                    <h3 class="content-title">Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda  </h3>
-                  </div>
-                </a>
-            </div>
-         </div>
 
+  </header>
+  <!-- END OF site header Menu-->
+
+  <main class="page-main page-fullpage main-anim" id="mainpage">
+
+    <!-- Begin of home section -->
+   
+    <div class="section section-list-feature fp-auto-height-responsive no-m-padng " data-section="1" id="s1">
+      <div class="section-wrapper fullwidth with-margin">
+        <!-- content -->
+        <div class="section-content anim">
+          <div class="col-12 col-lg-12">
+              <div class="row  custom-album">
+                 <div class="col-md-3">
+                    <div class="content">
+                        <a href="#" data-toggle="modal" data-target="#mymodal">
+                          <div class="content-overlay"></div>
+                          <img src="front/Ef.jpg" class="content-image" style="width:100%;">
+                          <div class="content-details fadeIn-bottom">
+                            <h3 class="content-title">Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda  </h3>
+                          </div>
+                        </a>
+                    </div>
+                 </div>
+              
+              </div>
+          </div>
+        </div>
+       <footer class="section-footer scrolldown">
+          <a class="down">
+            <i class="ion ion-chevron-down"></i>
+          </a>
+        </footer>
+        
       </div>
+      <!-- End of section wrapper -->
+      
     </div>
-  </div>
-   <section id="kwibuka">
+       <section id="kwibuka">
         <div class="modal fade modal-fullscreen" id="mymodal" role="dialog" style="background-color:#000;">
             <div class="modal-dialog modal-lg" style="boeder-raduis">
                 <div class="modal-content" style="box-shadow:none; border:none;border-radius:0 !important;">
@@ -223,6 +243,25 @@
             </div>
         </div>
     </section>
+  </main>
+  <div class="container-fluid" id="gall-img">
+    <div class="col-md-12 col-lg-12">
+        <div class="row  custom-album">
+         <div class="col-md-3">
+            <div class="content">
+                <a href="#" data-toggle="modal" data-target="#mymodal">
+                  <div class="content-overlay"></div>
+                  <img src="front/Ef.jpg" class="content-image" style="width:100%;">
+                  <div class="content-details fadeIn-bottom">
+                    <h3 class="content-title">Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda  </h3>
+                  </div>
+                </a>
+            </div>
+         </div>
+
+      </div>
+    </div>
+  </div>
 
   <script src="js/jquery.min.js"></script>
   <script src="js/vendor/jquery-1.12.4.min.js"></script>
