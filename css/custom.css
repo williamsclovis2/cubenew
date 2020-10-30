@@ -849,6 +849,15 @@ span.caret{
 .custom-album .fadeIn-top{top:20%;}
 .custom-album .fadeIn-left{left:20%;}
 .custom-album .fadeIn-right{left:80%;}
+#work-menu{
+    position: unset !important;
+}
+#gall-img{
+    padding: unset !important;
+    background-color: unset !important;
+}
+
+
 
 
 
