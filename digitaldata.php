@@ -15,6 +15,14 @@ http://miradontsoa.com
   <!-- Page Title Here -->
   <title>Cube communication</title>
 
+  <!-- Meta -->
+  <!-- Page Description Here -->
+  <meta name="description" content="A beautiful and creative portfolio template. It is mobile friend (responsive) and comes with smooth animations">
+
+  <!-- Disable screen scaling-->
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+  <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
   <!-- Web fonts and Web Icons -->
   <link rel="stylesheet" href="fonts/opensans/stylesheet.css">
   <link rel="stylesheet" href="fonts/bebas/stylesheet.css">
@@ -411,7 +419,9 @@ http://miradontsoa.com
  
 
   <!-- scripts -->
- 
+  <!-- All Javascript plugins goes here -->
+    <!-- scripts -->
+  <!-- All Javascript plugins goes here -->
   
   <script src="js/jquery.min.js"></script>
   <script src="js/vendor/jquery-1.12.4.min.js"></script>

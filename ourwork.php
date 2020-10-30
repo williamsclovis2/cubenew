@@ -2,13 +2,29 @@
 <html class="no-js" lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+  <!-- Page Title Here -->
   <title>Cube communication</title>
+
+  <!-- Meta -->
+  <!-- Page Description Here -->
+  <meta name="description" content="A beautiful and creative portfolio template. It is mobile friend (responsive) and comes with smooth animations">
+
+  <!-- Disable screen scaling-->
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+  <!-- Place favicon.ico and apple-touch-icon(s) in the root directory -->
+  <!-- Web fonts and Web Icons -->
   <link rel="stylesheet" href="fonts/opensans/stylesheet.css">
   <link rel="stylesheet" href="fonts/bebas/stylesheet.css">
   <link rel="stylesheet" href="fonts/ionicons.min.css">
   <link rel="stylesheet" href="fonts/font-awesome.min.css">
 
-  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <!-- Vendor CSS style -->
+  <link rel="stylesheet" href="css/pageloader.css">
+
+  <!-- Uncomment below to load individualy vendor CSS -->
+  <link rel="stylesheet" href="work/css/bootstrap.min.css">
   <link rel="stylesheet" href="js/vendor/swiper.min.css">
   <link rel="stylesheet" href="js/vendor/jquery.fullpage.min.css">
   <link rel="stylesheet" href="js/vegas/vegas.min.css">
@@ -19,7 +35,7 @@
   <link rel="stylesheet" href="css/aos.css">
   <!-- add alt layout here -->
   <link rel="stylesheet" href="css/style-default.css">
-
+  <link rel="stylesheet" href="work/css/work.css">
   <script src="js/vendor/modernizr-2.7.1.min.js"></script>
   <link rel="stylesheet" href="css/animate.css">
 </head>
@@ -41,39 +57,8 @@
         <div class="section-content anim">
           <div class="col-12 col-lg-12">
               <div class="row  custom-album">
-                 <div class="col-md-3">
-                    <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#afsld-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/lun.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Lufthansa| Kigali | Rwanda </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                 <div class="col-md-3">
-                    <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#afsld-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/afsld.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Africa Food Security Leadership Dialogue | Kigali | Rwanda </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                 <div class="col-md-3">
-                  <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#orf-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/orf_two.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Kigali Global Dialogue 2019 |Kigali |Rwanda  </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
+                 
+                 
                  <div class="col-md-3">
                     <div class="content">
                         <a href="#" data-toggle="modal" data-target="#mymodal">
@@ -85,62 +70,9 @@
                         </a>
                     </div>
                  </div>
-                  <div class="col-md-3">
-                    <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#kwibuka-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/25Kwibuka.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">25th Commemoration of the 1994 Genocide against the Tutsi | Kigali | Rwanda</h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                 <div class="col-md-3">
-                  <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#dubai-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/1-SME.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Dubai Expo 2020 World Majlis | Kigali | Rwanda </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div> 
-                <div class="col-md-3">
-                  <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#bea-model">
-                          <div class="content-overlay"></div>
-                          <img src="front/1BEA.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Business Excellence Awards <br>2019 | Kigali | Rwanda</h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                <div class="col-md-3">
-                  <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#myModal-BEA">
-                          <div class="content-overlay"></div>
-                          <img src="front/IAFT.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Intra Africa Trade Fair Conference 2018 | Cairo | Egypt </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                 <div class="col-md-3">
-                  <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#myModal-BEA">
-                          <div class="content-overlay"></div>
-                          <img src="front/IAFT.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Intra Africa Trade Fair Conference 2018 | Cairo | Egypt </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                
+                  
+                 
+            
               </div>
           </div>
         </div>
@@ -158,7 +90,7 @@
 <section id="kwibuka">
     <div class="modal fade modal-fullscreen" id="mymodal" role="dialog" style="background-color:#000;">
         <div class="modal-dialog modal-lg" style="boeder-raduis">
-            <div class="modal-content" style="box-shadow:none; border:none;">
+            <div class="modal-content" style="box-shadow:none; border:none;border-radius:0 !important;">
                 <div class="model-body">
                     <div class="container-fluid">
                         <a class="close" data-dismiss="modal"><img src="closeicon.png"></a>
@@ -243,6 +175,9 @@
   <script src="js/slick/slick.min.js"></script>
   <script src="js/vendor/all.js"></script>
   <script src="js/main.js"></script>
+  <script src="work/js/jquery-2.1.4.min.js"></script>
+  <script src="work/js/custom.js"></script>
+  <script src="work/js/bootstrap.min.js"></script>
 </body>
 
 </html>
