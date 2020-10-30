@@ -44,38 +44,7 @@
 
 
   <!-- BEGIN OF site header Menu -->
-<<<<<<< HEAD
-   <?php include("header.php");?>
-  <!-- END OF site header Menu-->
 
-  <main class="page-main page-fullpage main-anim" id="mainpage">
-
-    <!-- Begin of home section -->
-   
-    <div class="section section-list-feature fp-auto-height-responsive no-m-padng " data-section="1" id="s1">
-      <div class="section-wrapper fullwidth with-margin">
-        <!-- content -->
-        <div class="section-content anim">
-          <div class="col-12 col-lg-12">
-              <div class="row  custom-album">
-                 
-                 
-                 <div class="col-md-3">
-                    <div class="content">
-                        <a href="#" data-toggle="modal" data-target="#mymodal">
-                          <div class="content-overlay"></div>
-                          <img src="front/Ef.jpg" class="content-image" style="width:100%;">
-                          <div class="content-details fadeIn-bottom">
-                            <h3 class="content-title">Eisenhower Fellowships Africa Regional Conference 2019 |Kigali |Rwanda  </h3>
-                          </div>
-                        </a>
-                    </div>
-                 </div>
-                  
-                 
-              </div>
-          </div>
-=======
      <!-- BEGIN OF site header Menu -->
    <header class="page-header page-header-gallery navbar page-header-alpha scrolled-white menu-right topmenu-right" id="work-menu">
 
@@ -123,7 +92,7 @@
               </a>
             </li>
           </ul>
->>>>>>> 5c6ff43e327de76ac8af1fd074a2f0e1c3a12220
+
         </div>
         <!-- End of CTA & Icons menu -->
       </nav>
